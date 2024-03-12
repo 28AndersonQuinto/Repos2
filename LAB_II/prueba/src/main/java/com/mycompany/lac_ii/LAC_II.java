@@ -4,6 +4,8 @@
 
 package com.mycompany.lac_ii;
 
+import java.util.Scanner;
+
 /**
  *
  * @author sotoa
@@ -22,7 +24,8 @@ public class LAC_II {
         System.out.println(resultado2);
         System.out.println(resultado3);*/  
         
-        verificacion vf = new verificacion();
-        String ver = vf.verificar();
+        /*verificacion vf = new verificacion();
+        String ver = vf.verificar();*/
+        Scanner scanner = new (System.in);
     }
 }
